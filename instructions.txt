@@ -1,0 +1,13 @@
+Store's Name - complete
+Products and their costs - complete
+Customer's Full Name - merong input don para sa customer name (pwede din gawing magkahiwalay yung first name at last name para sure na full name makukuha)
+Products of choice - 
+The total amount of products purchased - 
+Amount of money that customer will give.
+Change of the customer
+
+Eto yung ginamit kong reference: https://www.figma.com/file/McUEriWzctvTSTiAc1K3wR/Untitled?node-id=1%3A3
+-cinonvert lang ni Gab yung ginawa nila sa Figma since nagpipixelate pag naglalagay ng pics
+
+-yung buttons di ko macenter, if merong pang center don pagawa na lang hehe tnx
+-yung functionalities sayo na

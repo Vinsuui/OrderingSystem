@@ -1,1 +1,82 @@
-
+Screen{
+    align: center middle;
+}
+/* title styles */
+#title{
+    content-align: center middle;
+}
+/* margin for the buttons */
+Button {
+    margin: 3 2;
+}
+/* space between buttons */
+Horizontal > Vertical {
+    width: 80;
+}
+/* text styles */
+.header {
+    margin: 1 0 0 2;
+    text-style: bold;
+    content-align: center middle;
+}
+/* styles for checkout text*/
+.header1 {
+    margin: 1 0 0 2;
+    text-style: bold;
+}
+/* styles of phone buttons */
+.btn_phone{
+    height:15%;
+    background: #B4EDE3;
+    border: round #4F7A84;
+    align: center middle;
+}
+/* styles of laptop buttons */
+.btn_laptop{
+    height:15%;
+    background: #FFC6D3;
+    border: round #8B4052;
+}
+/* styles of tablet buttons */
+.btn_tablet{
+    height:15%;
+    background: #B0D0FF;
+    border: round #253A58;
+}
+/* styles of accessories buttons */
+.btn_acc{
+    height:15%;
+    background: #F9F2DB;
+    border: round #605A47;
+}
+/* styles of proceed button */
+.btn_size1{
+    height: 10%;
+}
+/* container styles */
+.container{
+width: 20%;
+height: 70%;
+background: #4F7A84;
+}
+/* container of phone styles */
+#container_1{
+background: #4F7A84;
+}
+/* container of laptop styles */
+#container_2{
+background: #8B4052;
+}
+/* container of tablet styles */
+#container_3{
+background: #4F7A84;
+}
+/* container of container styles */
+#container_4{
+background: #605A47;
+}
+/* container of checkout styles */
+#container_5{
+background: white;
+color: black;
+}
